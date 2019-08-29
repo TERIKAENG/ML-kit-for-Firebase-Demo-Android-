@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="actionbar">55dp</dimen>
+    <dimen name="actionbar_text_size">30dp</dimen>
+    <dimen name="header_text_size">38dp</dimen>
+    <dimen name="edge_margin">20dp</dimen>
+    <dimen name="button_corners_high_radius">200dp</dimen>
+
+</resources>

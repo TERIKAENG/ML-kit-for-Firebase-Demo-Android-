@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ML kit Demo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="header_text_recognition">TEXT RECOGNITION</string>
+    <string name="header_face_detection">FACE DETECTION</string>
+
+    <string name="take_photo" translatable="true">ถ่ายรูป</string>
+    <string name="upload_photo" translatable="true">อัปโหลดรูป</string>
+
+
+</resources>
